@@ -1,6 +1,6 @@
-<h1 align="center">Hi there, I'm Sam 👋</h1>
+<h1 align="center">Hi there, I'm Sam ⚽✈️</h1>
 
-<h3 align="center">Full-stack developer · Home automation nerd · AI tinkerer</h3>
+<h3 align="center">Founder and Principal at <a href="https://inleague.io" target="_blank">inLeague</a> · Youth Sports Management 🥅 and Primary Education Admissions / Lottery Dev 🏫· Pilot, Aviation, History Nerd · AI tinkerer</h3>
 
 ---
 
