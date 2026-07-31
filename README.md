@@ -17,24 +17,14 @@
 
 ### 📊 GitHub Stats
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DiscountDarcy/DiscountDarcy/main/profile-summary-card-output/tokyonight/3-stats.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DiscountDarcy/DiscountDarcy/main/profile-summary-card-output/default/3-stats.svg" />
-  <img alt="GitHub Stats" src="https://raw.githubusercontent.com/DiscountDarcy/DiscountDarcy/main/profile-summary-card-output/default/3-stats.svg" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DiscountDarcy/DiscountDarcy/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DiscountDarcy/DiscountDarcy/main/profile-summary-card-output/default/1-repos-per-language.svg" />
-  <img alt="Repos per Language" src="https://raw.githubusercontent.com/DiscountDarcy/DiscountDarcy/main/profile-summary-card-output/default/1-repos-per-language.svg" />
-</picture>
+![Profile Details](https://raw.githubusercontent.com/DiscountDarcy/DiscountDarcy/main/profile-summary-card-output/tokyonight/0-profile-details.svg)
+![Repos per Language](https://raw.githubusercontent.com/DiscountDarcy/DiscountDarcy/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)
+![Most Commit Language](https://raw.githubusercontent.com/DiscountDarcy/DiscountDarcy/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)
+![GitHub Stats](https://raw.githubusercontent.com/DiscountDarcy/DiscountDarcy/main/profile-summary-card-output/tokyonight/3-stats.svg)
+![Productive Time](https://raw.githubusercontent.com/DiscountDarcy/DiscountDarcy/main/profile-summary-card-output/tokyonight/4-productive-time.svg)
 
 ---
 
 ### 🐍 Contribution Graph
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DiscountDarcy/DiscountDarcy/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DiscountDarcy/DiscountDarcy/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/DiscountDarcy/DiscountDarcy/output/github-contribution-grid-snake.svg" />
-</picture>
+![GitHub Contribution Snake](https://raw.githubusercontent.com/DiscountDarcy/DiscountDarcy/output/github-contribution-grid-snake-dark.svg)
