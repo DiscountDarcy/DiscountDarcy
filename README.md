@@ -1,12 +1,10 @@
-<h1 align="center">Hi there, I'm Sam ⚽✈️</h1>
+<h1 align="center">Hi there, I'm Sam 👋</h1>
 
-<h3 align="center">Founder and Principal at <a href="https://inleague.io" target="_blank">inLeague</a> · Youth Sports Management 🥅 and Primary Education Admissions / Lottery Dev 🏫· Pilot, Aviation, History Nerd · AI tinkerer</h3>
+<h3 align="center">Full-stack developer · Home automation nerd · AI tinkerer</h3>
 
 ---
 
 ### 🛠️ Tech Stack
-
-At inLeague, we work primarily with VueJS on the front end and [Boxlang](https://boxlang.io) by our good friends at [Ortus Solutions](https://www.ortussolutions.com/) after spending many years in the CFML space. 
 
 [![BoxLang](https://img.shields.io/badge/BoxLang-239120?style=for-the-badge&logo=openjdk&logoColor=white)](https://boxlang.io)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
@@ -24,9 +22,3 @@ At inLeague, we work primarily with VueJS on the front end and [Boxlang](https:/
 ![Most Commit Language](https://raw.githubusercontent.com/DiscountDarcy/DiscountDarcy/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)
 ![GitHub Stats](https://raw.githubusercontent.com/DiscountDarcy/DiscountDarcy/main/profile-summary-card-output/tokyonight/3-stats.svg)
 ![Productive Time](https://raw.githubusercontent.com/DiscountDarcy/DiscountDarcy/main/profile-summary-card-output/tokyonight/4-productive-time.svg)
-
----
-
-### 🐍 Contribution Graph
-
-![GitHub Contribution Snake](https://raw.githubusercontent.com/DiscountDarcy/DiscountDarcy/output/github-contribution-grid-snake-dark.svg)
