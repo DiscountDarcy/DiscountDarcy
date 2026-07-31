@@ -6,7 +6,7 @@
 
 ### 🛠️ Tech Stack
 
-At inLeague, we work primarily with VueJS on the front end and [Boxlang](https://boxlang.io)] by our good friends at [Ortus Solutions](https://www.ortussolutions.com/) after spending many years in the CFML space. 
+At inLeague, we work primarily with VueJS on the front end and [Boxlang](https://boxlang.io) by our good friends at [Ortus Solutions](https://www.ortussolutions.com/) after spending many years in the CFML space. 
 
 [![BoxLang](https://img.shields.io/badge/BoxLang-239120?style=for-the-badge&logo=openjdk&logoColor=white)](https://boxlang.io)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
